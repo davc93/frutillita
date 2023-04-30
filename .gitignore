@@ -1,0 +1,13 @@
+# data of database docker volumes
+mongo_data
+postgres_data
+
+node_modules
+.env
+.env.stage
+.env.production
+.turbo
+build/**
+dist/**
+.next/**
+.vscode
