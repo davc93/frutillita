@@ -4,17 +4,17 @@
 
 /* Globals */
 :root {
-  --light: #e4dfda;
-  --dark: #060220;
-  --tertiary-light: #6f85f3;
-  --tertiary: #3c5bff;
-  --tertiary-dark: #0a014f;
-  --secondary-light: #828485;
-  --secondary: #848586;
-  --secondary-dark: #848586;
-  --primary-light: #e43bc5;
-  --primary: #db0eb7;
-  --primary-dark: #a10d86;
+  --light: #efe9ae;
+  --dark: #27233A;
+  --tertiary-light: #d5a667;
+  --tertiary: #E44F17;
+  --tertiary-dark: #ad3c13;
+  --secondary-light: #a3b9c2;
+  --secondary: #818D92;
+  --secondary-dark: #576469;
+  --primary-light: #52844A;
+  --primary: #21401C;
+  --primary-dark: #173313;
 }
 
 * {
@@ -25,7 +25,6 @@
 
 /* 1rem=16px */
 h1 {
-  font-family: "Nebula-Regular", Fallback, sans-serif;
   font-weight: 500;
   font-size: 3rem;
   line-height: 4rem;
@@ -187,3 +186,8 @@ strong {
 }
 
 /* end Globals */
+
+
+body{
+  font-family: 'Asap', sans-serif;
+}
